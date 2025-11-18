@@ -1,3 +1,4 @@
+![App Icon](https://copilot.microsoft.com/th/id/BCO.ce6de4fa-4f42-4aa0-a42d-b43caa523bc4.png)
 🧾 User Info Form App
 
 A simple Windows Forms application built in C# that collects user information through one form and displays it on another. This project demonstrates form-to-form communication, basic UI interaction, and image handling in a desktop environment.
